@@ -35,4 +35,5 @@ This command executes the actions proposed in a Terraform plan.
  After you applied the configuration, you should be able to access the web server after some minutes (URL of your deployments).
   
 ## Occurred problem
-Unfortunately, the output of the web server does not work properly. There is a problem with the JSON decoding, which could not be solved by our side.
+Unfortunately, the output of the web server does not work properly. There is a problem with the JSON decoding and to create a subnet, which could not be solved by our side.
+![grafik](https://user-images.githubusercontent.com/61579665/150586711-a9841acb-a8e2-49e5-aff1-42ff08a681d6.png)
